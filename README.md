@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nicholas-David-K
-- 👀 I’m interested in Python, REST APIs, Web Development and Flutter
-- 🌱 I’m currently learning Dart
+- 👀 I’m interested in Python, REST APIs, Web Development and React
+- 🌱 I’m currently learning React Redux
 - 💞️ I’m looking to collaborate on anything that fits my programming stack.
-- 📫 How to reach me: onedavid.nicholas@gmail.com
+- 📫 How to reach me: onedavid.nicholas@gmail.com | knicholasdavid@gmail.com
 
 <!---
 Nicholas-David-K/Nicholas-David-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
